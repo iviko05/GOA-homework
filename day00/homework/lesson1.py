@@ -1,1 +1,1 @@
-print (50-43)
+#no homwork
